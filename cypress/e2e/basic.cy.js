@@ -4,6 +4,6 @@ describe('sample render test', () => {
   });
 
   it('displays the title text', () => {
-    cy.get('h1').contains('Jurnal Teman Begadang');
+    cy.get('h1').contains('Log M.Pribadi');
   });
 });
